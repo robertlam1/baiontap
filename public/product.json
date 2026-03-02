@@ -1,1 +1,18 @@
+[
+    {
+        "id":1,
+        "name": "Cafe Matcha",
+        "idcategory": 1
+    },
+        {
+        "id":2,
+        "name": "Cafe latte",
+        "idcategory": 1
+    },
+    {
+        "id":2,
+        "name": "sinh to dau",
+        "idcategory": 2
 
+    }
+]
